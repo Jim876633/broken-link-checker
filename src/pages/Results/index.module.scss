@@ -1,0 +1,9 @@
+.result {
+  display: flex;
+  flex-wrap: wrap;
+
+  .card {
+    padding: 2rem;
+    border: 1px solid #e5e7eb;
+  }
+}
